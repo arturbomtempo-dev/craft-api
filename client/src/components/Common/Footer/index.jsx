@@ -6,8 +6,12 @@ export function Footer() {
     return (
         <footer className="footer">
             Copyright &copy; {currentYear}{' '}
-            <a href="https://spacefordevelopment.vercel.app" target="_blank" rel="noreferrer">
-                Space For Development
+            <a href="https://arturbomtempo.dev/" rel="noreferrer" target="_blank">
+                Artur Bomtempo
+            </a>
+            e{' '}
+            <a href="https://www.leticiafranca.com.br/" rel="noreferrer" target="_blank">
+                Letícia França
             </a>
             . Todos os direitos reservados.
         </footer>
